@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Netzwerkumstellung kundenportal.teuto.net",
+  "body": "\u003cp\u003eAm 23.07.2026 zwischen 10:00 Uhr und 10:30 Uhr wird das Netzwerk von kundenportal.teuto.net auf ein neues System umgestellt.\u003c/p\u003e\n\u003cp\u003eIn Folge dessen ist das Kundenportal kurzzeitig nicht erreichbar.\u003c/p\u003e\n",
+  "createdAt": "2026-07-23 10:00:00 +0000 UTC",
+  "lastMod": "2026-07-24 09:22:52 +0200 +0200",
+  "permalink": "https://teuto-status.com/issues/2026-07-23-update-kundenportal-ingress/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2026-07-23 10:30:00",
+  "affected": ["kundenportal.teuto.net"],
+  "filename": "2026-07-23-update-kundenportal-ingress.md"
+}

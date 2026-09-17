@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Wartungsarbeiten Netzwerk",
+  "body": "\u003cp\u003eIm angegebenen Zeitraum werden Wartungsarbeiten an der Netzwerk-Infrastruktur in Bielefeld vorgenommen:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eAm 15.7.2026 von 20 Uhr bis 23 Uhr\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eEs werden keine Einschränkungen erwartet.\u003c/p\u003e\n",
+  "createdAt": "2026-07-15 20:00:00 +0000 UTC",
+  "lastMod": "2026-07-16 16:06:53 +0200 +0200",
+  "permalink": "https://teuto-status.com/issues/2026-07-15-netzwerk-wartung-bfe/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2026-07-15 22:00:00",
+  "affected": ["Routing Bielefeld"],
+  "filename": "2026-07-15-netzwerk-wartung-bfe.md"
+}
