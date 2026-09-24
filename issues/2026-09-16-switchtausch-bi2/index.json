@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Wartungsarbeiten Netzwerk Bielefeld",
+  "body": "\u003cp\u003eAm 16.9.2026 von 20 bis 23 Uhr finden Wartungsarbeiten an unserer Netzwerk-Infrastruktur in Bielefeld statt.\u003c/p\u003e\n\u003cp\u003eBetroffene Kunden werden in einer separaten E-Mail informiert.\u003c/p\u003e\n",
+  "createdAt": "2026-09-16 20:00:00 +0000 UTC",
+  "lastMod": "2026-09-17 09:03:01 +0200 +0200",
+  "permalink": "https://teuto-status.com/issues/2026-09-16-switchtausch-bi2/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": true,
+  "resolvedAt": "2026-09-17 00:00:00",
+  "affected": ["Routing Bielefeld", "Festverbindungen"],
+  "filename": "2026-09-16-switchtausch-bi2.md"
+}
