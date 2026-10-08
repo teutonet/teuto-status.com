@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Wartungsarbeiten Netzwerk Bielefeld",
+  "body": "\u003cp\u003eAm 14.10.2026 von 20 bis 23 Uhr werden Wartungsarbeiten an unserer Netzwerk-Infrastruktur in Bielefeld durchgeführt.\u003c/p\u003e\n\u003cp\u003eDavon betroffen sind Festverbindungen, Serverhousing und v-Server Produkte, welche nicht über teutoStack bereitgestellt werden.\u003c/p\u003e\n",
+  "createdAt": "2026-10-14 20:00:00 +0000 UTC",
+  "lastMod": "2026-09-29 13:42:36 +0200 +0200",
+  "permalink": "https://teuto-status.com/issues/2026-10-14/",
+  "severity": "notice",
+  "resolved": false,
+  "informational": true,
+  "resolvedAt": "2026-09-24 22:00:00",
+  "affected": ["Routing Bielefeld", "Festverbindungen", "Serverhousing Bielefeld"],
+  "filename": "2026-10-14.md"
+}

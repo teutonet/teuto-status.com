@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Passwortreset kundenportal.teuto.net",
+  "body": "\u003cp\u003eAufgrund technischer Einschränkungen ist es aktuell nicht möglich, Benutzerpasswörter im Kundenportal zurückzusetzen.\u003c/p\u003e\n",
+  "createdAt": "2026-08-26 13:50:00 +0000 UTC",
+  "lastMod": "2026-08-26 14:41:03 +0200 +0200",
+  "permalink": "https://teuto-status.com/issues/2026-08-26-kundenportal-passwort/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": true,
+  "resolvedAt": "2026-08-26 14:40:00",
+  "affected": ["kundenportal.teuto.net"],
+  "filename": "2026-08-26-kundenportal-passwort.md"
+}
