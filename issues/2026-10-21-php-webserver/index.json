@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Sicherheitslücke PHP2Shell auf shared hosting webservern",
+  "body": "\u003cp\u003e\u003cstrong\u003eUpdate 23.10.2026, 10:00 Uhr:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eWir haben die Berichte über die Verwundbarkeit von PHP 8.5.12 analysiert. Wir sind zu dem Ergebniss gekommen, dass für unser technisches Setup kein Risiko besteht.\nDaher haben wir PHP 8.5 wieder für die Nutzung freigegeben.\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e\u003cstrong\u003eUpdate 21.10.2026, 20:13 Uhr:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eAufgrund von Meldungen zur Verwundbarkeit von PHP 8.5 auch nach dem Update auf 8.5.12 haben wir uns dazu entschieden PHP 8.5 temporär abzuschalten.\u003c/p\u003e\n\u003cp\u003eBetroffene Webseiten werden auf php 8.4 umgestellt.\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e\u003cstrong\u003eUpdate 21.10.2026, 17:00 Uhr:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eAlle Versionen von PHP 8.2 bis 8.5 wurden aktualisiert. Ältere PHP-Versionen bieten wir nicht an.\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e\u003cstrong\u003eUpdate 21.10.2026, 15:15 Uhr:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eZum Schutz Ihrer Daten haben wir die Webserver vorübergehend abgeschaltet. Sie bleiben so lange offline, bis wir die Sicherheitsupdates eingespielt haben. Einen genauen Zeitpunkt können wir aktuell noch nicht nennen. Wir informieren Sie hier, sobald die Webserver wieder verfügbar sind.\u003c/p\u003e\n\u003cp\u003eWir entschuldigen uns für die Unannehmlichkeiten und bitten um Ihr Verständnis.\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e\u003cstrong\u003eUrsprüngliche Meldung:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eAufgrund von dringend notwendigen Sicherheitsupdates kann es zu Einschränkungen bei der Erreichbarkeit von teuto.net Shared Webhosting kommen.\u003c/p\u003e\n\u003cp\u003eZudem werden wir temporär folgende Option in der PHP-Konfiguration setzen:\u003c/p\u003e\n\u003cpre tabindex=\"0\"\u003e\u003ccode\u003esession.upload_progress.enabled = Off\n\u003c/code\u003e\u003c/pre\u003e\u003cp\u003eDie Funktion für multipart uploads steht damit temporär nicht zur Verfügung.\u003c/p\u003e\n",
+  "createdAt": "2026-10-21 07:00:00 +0000 UTC",
+  "lastMod": "2026-10-23 10:17:29 +0200 +0200",
+  "permalink": "https://teuto-status.com/issues/2026-10-21-php-webserver/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2026-10-23 10:00:00",
+  "affected": ["web2.teuto.net", "web3.teuto.net", "web4.teuto.net"],
+  "filename": "2026-10-21-php-webserver.md"
+}

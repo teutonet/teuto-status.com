@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://teuto-status.com/"/>
+    <title>Kundenportal.teuto.net on teuto.net Störungs- und Wartungsmeldungen</title>
+    <link>https://teuto-status.com/affected/kundenportal.teuto.net/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
+    
+    <lastBuildDate>2026-08-26T13:50:00+00:00</lastBuildDate>
+    <updated>2026-08-26T13:50:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://teuto-status.com/affected/kundenportal.teuto.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Gelöst] Passwortreset kundenportal.teuto.net</title>
+        <link>https://teuto-status.com/issues/2026-08-26-kundenportal-passwort/</link>
+        <pubDate>Wed, 26 Aug 2026 13:50:00 +0000</pubDate>
+        <guid>https://teuto-status.com/issues/2026-08-26-kundenportal-passwort/</guid>
+        <category>2026-08-26 14:40:00</category>
+        <description>&lt;p&gt;Aufgrund technischer Einschränkungen ist es aktuell nicht möglich, Benutzerpasswörter im Kundenportal zurückzusetzen.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Aufgrund technischer Einschränkungen ist es aktuell nicht möglich, Benutzerpasswörter im Kundenportal zurückzusetzen.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Ausfall kundenportal.teuto.net</title>
+        <link>https://teuto-status.com/issues/2026-08-11-kundenportal-ausfall/</link>
+        <pubDate>Tue, 11 Aug 2026 10:30:00 +0000</pubDate>
+        <guid>https://teuto-status.com/issues/2026-08-11-kundenportal-ausfall/</guid>
+        <category>2026-08-11 12:30:00</category>
+        <description>&lt;p&gt;Durch ein internes Problem ist das Kundenportal aktuell nicht erreichbar.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Durch ein internes Problem ist das Kundenportal aktuell nicht erreichbar.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] Netzwerkumstellung kundenportal.teuto.net</title>
+        <link>https://teuto-status.com/issues/2026-07-23-update-kundenportal-ingress/</link>
+        <pubDate>Thu, 23 Jul 2026 10:00:00 +0000</pubDate>
+        <guid>https://teuto-status.com/issues/2026-07-23-update-kundenportal-ingress/</guid>
+        <category>2026-07-23 10:30:00</category>
+        <description>&lt;p&gt;Am 23.07.2026 zwischen 10:00 Uhr und 10:30 Uhr wird das Netzwerk von kundenportal.teuto.net auf ein neues System umgestellt.&lt;/p&gt;
+&lt;p&gt;In Folge dessen ist das Kundenportal kurzzeitig nicht erreichbar.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Am 23.07.2026 zwischen 10:00 Uhr und 10:30 Uhr wird das Netzwerk von kundenportal.teuto.net auf ein neues System umgestellt.&lt;/p&gt;
+&lt;p&gt;In Folge dessen ist das Kundenportal kurzzeitig nicht erreichbar.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>
