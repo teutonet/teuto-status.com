@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Dringende PHP-Sicherheitsupdates",
+  "body": "\u003cp\u003eFür PHP wurden zwei kritische Sicherheitslücken angekündigt, die heute, 21.10.2026, ab 16 Uhr veröffentlicht werden.\nBetroffen sind alle aktuellen PHP-Versionen.\u003c/p\u003e\n\u003cp\u003eWir bereiten aktuell Updates für alle betroffenen Systeme vor. Hierbei kann es im laufe des Tages zu Einschränkungen in der Erreichbarkeit unserer Systeme kommen.\u003c/p\u003e\n\u003cp\u003eWir können leider zum aktuellen Zeitpunkt nicht ausschließen bestimmte Systeme als Notfallmaßnahme komplett abzuschalten, falls es nicht möglich ist diese zeitnah zu aktualisieren.\u003c/p\u003e\n\u003cp\u003eSofern Sie eigenverantwortlich PHP-Systeme betreiben müssen Sie diese ebenfalls umgehend aktualisieren. Es ist davon auszugehen dass innerhalb kürzester Zeit nach Veröffentlichung Angriffe auf die Systeme starten werden.\u003c/p\u003e\n",
+  "createdAt": "2026-10-21 07:00:00 +0000 UTC",
+  "lastMod": "2026-10-21 17:33:40 +0200 +0200",
+  "permalink": "https://teuto-status.com/issues/2026-10-21-php-allgemein/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": true,
+  "resolvedAt": "2026-10-21 17:05:00",
+  "affected": [],
+  "filename": "2026-10-21-php-allgemein.md"
+}

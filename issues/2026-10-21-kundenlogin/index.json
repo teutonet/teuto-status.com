@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Kundenlogin und Webmailer abgeschalten",
+  "body": "\u003cp\u003eAufgrund von zwei kritischen PHP-Lücken sehen wir uns gezwungen bestimmte Systeme abzuschalten.\nAus diesem Grund ist der \u003ca href=\"https://login.teuto.net/login/\"\u003eKundenlogin\u003c/a\u003e sowie der \u003ca href=\"https://mail.teuto.net/\"\u003eWebmailer\u003c/a\u003e aktuell nicht erreichbar.\u003c/p\u003e\n\u003cp\u003eWir arbeiten daran, den vollen Funktionsumfang so schnell wie möglich wiederherzustellen. Einen genauen Zeitpunkt können wir aktuell noch nicht nennen.\u003c/p\u003e\n\u003cp\u003eWir bitten um Entschuldigung.\u003c/p\u003e\n\u003cp\u003eVon Ihrer Seite sind keine Handlungen erforderlich. Wir aktualisieren diese Meldung, sobald es Neuigkeiten gibt.\u003c/p\u003e\n",
+  "createdAt": "2026-10-21 14:00:00 +0000 UTC",
+  "lastMod": "2026-10-21 15:50:36 +0200 +0200",
+  "permalink": "https://teuto-status.com/issues/2026-10-21-kundenlogin/",
+  "severity": "disrupted",
+  "resolved": false,
+  "informational": false,
+  "resolvedAt": "<no value>",
+  "affected": [],
+  "filename": "2026-10-21-kundenlogin.md"
+}

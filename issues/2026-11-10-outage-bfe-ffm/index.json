@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Störung der Openstack-Cloud",
+  "body": "\u003cp\u003eWir verzeichnen aktuell eine Störung der Cloud in Frankfurt und Bielefeld. Es kann zu Problemen beim Zugriff auf Resourcen in der Cloud kommen.\u003c/p\u003e\n\u003cp\u003eWir arbeiten mit Hochdruck an der Lösung und bitten die entstandenen Unanehmlichkeiten zu entschuldigen.\u003c/p\u003e\n",
+  "createdAt": "2026-11-10 13:30:00 +0000 UTC",
+  "lastMod": "2026-11-11 09:46:07 +0100 +0100",
+  "permalink": "https://teuto-status.com/issues/2026-11-10-outage-bfe-ffm/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2026-11-10 16:00:00",
+  "affected": ["Public Cloud Frankfurt", "Public Cloud Bielefeld"],
+  "filename": "2026-11-10-outage-bfe-ffm.md"
+}
