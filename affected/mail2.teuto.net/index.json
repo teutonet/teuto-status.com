@@ -1,0 +1,27 @@
+{
+  "is": "system",
+  "title": "Mail2.teuto.net",
+  "permalink": "https://teuto-status.com/affected/mail2.teuto.net/",
+  "status": "notice", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Wartungsarbeiten mail2.teuto.net",
+        "createdAt": "2026-11-24 20:00:00 +0000 UTC",
+        "lastMod": "2026-11-24 20:00:00 +0000 UTC",
+        "permalink": "https://teuto-status.com/issues/2026-11-24/",
+        "severity": "notice",
+        "resolved": false,
+        "informational": false,
+        "resolvedAt": "2026-11-24 22:00:00",
+        "affected": ["mail2.teuto.net"],
+        "filename": "2026-11-24.md"
+      }
+    
+  ]
+}
+
+
+
+
+
